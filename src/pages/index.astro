@@ -1,20 +1,25 @@
 ---
 import Container from "@components/container.astro";
 import Cta from "@components/cta.astro";
-import Features from "@components/features.astro";
+import Issues from "@components/issues.astro";
 import Hero from "@components/hero.astro";
 import Logos from "@components/logos.astro";
 import Layout from "@layouts/Layout.astro";
 import About from "./about.astro";
+import Mission from "./mission.astro";
 ---
 
 <Layout title="">
   <Container>
     <Hero />
-    <Features />
+
   </Container>
 
-    <About/>
+  <Mission/>
+  <Container class="p-12">
+    <Issues />
+  </Container>
+
     <Container>
 
     <Logos />

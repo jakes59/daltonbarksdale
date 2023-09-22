@@ -532,10 +532,20 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.19.2.tgz#1205014625790c7ff0e471644a878a65d1e34ab0"
   integrity sha512-tcuhV7ncXBqbt/Ybf0IyrMcwVOAPDckMK9rXNHtF17UTK18OKLpg08glminN06pt2WCoALhXdLfSPbVvK/6fxw==
 
+"@fontsource-variable/big-shoulders-display@^5.0.12":
+  version "5.0.12"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/big-shoulders-display/-/big-shoulders-display-5.0.12.tgz#e6529b8bba5613a32d0f04f1ed82d39d74c192ef"
+  integrity sha512-aMoF9Nruw4XB3sq7D4XPLxKnBNp2E6gg1muN13s29Se2wDc3f6E5pSh+XdMXbDhvfO1YpI6Ag9VVOIfItClLSA==
+
 "@fontsource-variable/inter@^5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@fontsource-variable/inter/-/inter-5.0.8.tgz#bd6d61ece1019c59b0ac330a138d48a34dfa6d8c"
   integrity sha512-WkYfFNccmEIeL2fNg0mYeLWqOoB7xD8MFxFRc4IwbSP2o8ZaBt36v5aW4by4MyrgGRMNk7uNi5LbvYKq6clPjw==
+
+"@fontsource-variable/work-sans@^5.0.9":
+  version "5.0.9"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/work-sans/-/work-sans-5.0.9.tgz#48b236f9055c63ba56cec3f483f9d1107dcbad14"
+  integrity sha512-aGK91wJIc7HPQ1hT5vAfGui0OajlaDc/ZCU5xvugr6ITXlyudM5qVfpjGEMpe4ACACRGeC5bKYFYZlX4pW9gzA==
 
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
